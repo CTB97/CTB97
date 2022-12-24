@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Cheikh Tidiane BOYE</h1>
 <h3 align="center">software developer and devops</h3>
+<a href="https://api.whatsapp.com/send?phone=+221763772260&text=Hello%20Xarala,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+</a>
+<a href="https://www.twitter.com/xarala221" alt="Follow Me on Twitter"> 
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/xarala221" alt="Connect on LinkedIn"> 
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
