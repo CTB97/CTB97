@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cheikh Tidiane BOYE</h1>
-<h3 align="center">software developer and devops</h3>
+<h3 align="center">software developer</h3>
 <h3 align="left">Connect with me:</h3>
 <a href="https://api.whatsapp.com/send?phone=+221771503115&text=Hello%20Cheikh%20Tidiane,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
